@@ -1,0 +1,97 @@
+{
+  "status": "connected",
+  "records": [
+    {
+      "geographyId": "montgomery-county-md",
+      "fips": "24031",
+      "geographyName": "Montgomery County, MD",
+      "year": 2024,
+      "personalIncome": 113510492000,
+      "perCapitaPersonalIncome": 104882,
+      "source": "BEA Regional CAINC1",
+      "dataQuality": "connected"
+    },
+    {
+      "geographyId": "washington-dc",
+      "fips": "11001",
+      "geographyName": "Washington, DC",
+      "year": 2024,
+      "personalIncome": 78079526000,
+      "perCapitaPersonalIncome": 111185,
+      "source": "BEA Regional CAINC1",
+      "dataQuality": "connected"
+    },
+    {
+      "geographyId": "prince-georges-county-md",
+      "fips": "24033",
+      "geographyName": "Prince George's County, MD",
+      "year": 2024,
+      "personalIncome": 57692301000,
+      "perCapitaPersonalIncome": 59684,
+      "source": "BEA Regional CAINC1",
+      "dataQuality": "connected"
+    },
+    {
+      "geographyId": "baltimore-city-md",
+      "fips": "24510",
+      "geographyName": "Baltimore City, MD",
+      "year": 2024,
+      "personalIncome": 39530923000,
+      "perCapitaPersonalIncome": 69564,
+      "source": "BEA Regional CAINC1",
+      "dataQuality": "connected"
+    },
+    {
+      "geographyId": "new-york-county-ny",
+      "fips": "36061",
+      "geographyName": "New York County, NY",
+      "year": 2024,
+      "personalIncome": 360487892000,
+      "perCapitaPersonalIncome": 217075,
+      "source": "BEA Regional CAINC1",
+      "dataQuality": "connected"
+    },
+    {
+      "geographyId": "los-angeles-county-ca",
+      "fips": "06037",
+      "geographyName": "Los Angeles County, CA",
+      "year": 2024,
+      "personalIncome": 818509319000,
+      "perCapitaPersonalIncome": 83888,
+      "source": "BEA Regional CAINC1",
+      "dataQuality": "connected"
+    },
+    {
+      "geographyId": "cook-county-il",
+      "fips": "17031",
+      "geographyName": "Cook County, IL",
+      "year": 2024,
+      "personalIncome": 414425134000,
+      "perCapitaPersonalIncome": 79964,
+      "source": "BEA Regional CAINC1",
+      "dataQuality": "connected"
+    },
+    {
+      "geographyId": "harris-county-tx",
+      "fips": "48201",
+      "geographyName": "Harris County, TX",
+      "year": 2024,
+      "personalIncome": 400697273000,
+      "perCapitaPersonalIncome": 79991,
+      "source": "BEA Regional CAINC1",
+      "dataQuality": "connected"
+    },
+    {
+      "geographyId": "miami-dade-county-fl",
+      "fips": "12086",
+      "geographyName": "Miami-Dade County, FL",
+      "year": 2024,
+      "personalIncome": 223009590000,
+      "perCapitaPersonalIncome": 78567,
+      "source": "BEA Regional CAINC1",
+      "dataQuality": "connected"
+    }
+  ],
+  "note": "BEA Regional CAINC1 county personal income and per-capita personal income benchmarks.",
+  "fetchedAt": "2026-05-28T18:30:19.875Z"
+}

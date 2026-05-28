@@ -1,0 +1,2344 @@
+[
+  {
+    "geographyId": "montgomery-county-md",
+    "fips": "24031",
+    "naics": "541714,541713",
+    "industryId": "life-sciences-rd",
+    "establishments": 190,
+    "employment": 7642,
+    "payroll": 1501803000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541713",
+      "541714"
+    ]
+  },
+  {
+    "geographyId": "montgomery-county-md",
+    "fips": "24031",
+    "naics": "511210,518210,541511",
+    "industryId": "software-it",
+    "establishments": 920,
+    "employment": 17661,
+    "payroll": 2103457000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "511210",
+      "518210",
+      "541511"
+    ]
+  },
+  {
+    "geographyId": "montgomery-county-md",
+    "fips": "24031",
+    "naics": "541611,541330",
+    "industryId": "professional-services",
+    "establishments": 1107,
+    "employment": 18799,
+    "payroll": 2080301000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541330",
+      "541611"
+    ]
+  },
+  {
+    "geographyId": "montgomery-county-md",
+    "fips": "24031",
+    "naics": "325412,334413,335999",
+    "industryId": "manufacturing",
+    "establishments": 0,
+    "employment": 0,
+    "payroll": 0,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": []
+  },
+  {
+    "geographyId": "montgomery-county-md",
+    "fips": "24031",
+    "naics": "236220",
+    "industryId": "construction",
+    "establishments": 201,
+    "employment": 4778,
+    "payroll": 547942000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "236220"
+    ]
+  },
+  {
+    "geographyId": "montgomery-county-md",
+    "fips": "24031",
+    "naics": "621111,622110",
+    "industryId": "healthcare",
+    "establishments": 935,
+    "employment": 24440,
+    "payroll": 2162890000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "621111",
+      "622110"
+    ]
+  },
+  {
+    "geographyId": "montgomery-county-md",
+    "fips": "24031",
+    "naics": "445110,452311",
+    "industryId": "retail",
+    "establishments": 223,
+    "employment": 13577,
+    "payroll": 487494000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "445110",
+      "452311"
+    ]
+  },
+  {
+    "geographyId": "montgomery-county-md",
+    "fips": "24031",
+    "naics": "721110",
+    "industryId": "hospitality",
+    "establishments": 51,
+    "employment": 2359,
+    "payroll": 106795000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "721110"
+    ]
+  },
+  {
+    "geographyId": "montgomery-county-md",
+    "fips": "24031",
+    "naics": "493110,484110,481112",
+    "industryId": "logistics-warehousing",
+    "establishments": 74,
+    "employment": 922,
+    "payroll": 33664000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "484110",
+      "493110"
+    ]
+  },
+  {
+    "geographyId": "montgomery-county-md",
+    "fips": "24031",
+    "naics": "611310",
+    "industryId": "higher-education",
+    "establishments": 7,
+    "employment": 352,
+    "payroll": 11604000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "611310"
+    ]
+  },
+  {
+    "geographyId": "montgomery-county-md",
+    "fips": "24031",
+    "naics": "923130,922110",
+    "industryId": "public-administration",
+    "establishments": 0,
+    "employment": 0,
+    "payroll": 0,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": []
+  },
+  {
+    "geographyId": "montgomery-county-md",
+    "fips": "24031",
+    "naics": "722511,722513",
+    "industryId": "food-services",
+    "establishments": 1501,
+    "employment": 27846,
+    "payroll": 783414000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "722511",
+      "722513"
+    ]
+  },
+  {
+    "geographyId": "montgomery-county-md",
+    "fips": "24031",
+    "naics": "531120",
+    "industryId": "real-estate",
+    "establishments": 133,
+    "employment": 989,
+    "payroll": 201932000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "531120"
+    ]
+  },
+  {
+    "geographyId": "montgomery-county-md",
+    "fips": "24031",
+    "naics": "522110,524210",
+    "industryId": "finance-insurance",
+    "establishments": 607,
+    "employment": 6329,
+    "payroll": 680745000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "522110",
+      "524210"
+    ]
+  },
+  {
+    "geographyId": "montgomery-county-md",
+    "fips": "24031",
+    "naics": "221114,237130,334413,335999",
+    "industryId": "clean-energy",
+    "establishments": 13,
+    "employment": 196,
+    "payroll": 20159000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "237130"
+    ]
+  },
+  {
+    "geographyId": "washington-dc",
+    "fips": "11001",
+    "naics": "541714,541713",
+    "industryId": "life-sciences-rd",
+    "establishments": 33,
+    "employment": 664,
+    "payroll": 74691000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541713",
+      "541714"
+    ]
+  },
+  {
+    "geographyId": "washington-dc",
+    "fips": "11001",
+    "naics": "511210,518210,541511",
+    "industryId": "software-it",
+    "establishments": 575,
+    "employment": 14346,
+    "payroll": 1921117000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "511210",
+      "518210",
+      "541511"
+    ]
+  },
+  {
+    "geographyId": "washington-dc",
+    "fips": "11001",
+    "naics": "541611,541330",
+    "industryId": "professional-services",
+    "establishments": 1173,
+    "employment": 29433,
+    "payroll": 4224292000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541330",
+      "541611"
+    ]
+  },
+  {
+    "geographyId": "washington-dc",
+    "fips": "11001",
+    "naics": "325412,334413,335999",
+    "industryId": "manufacturing",
+    "establishments": 0,
+    "employment": 0,
+    "payroll": 0,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": []
+  },
+  {
+    "geographyId": "washington-dc",
+    "fips": "11001",
+    "naics": "236220",
+    "industryId": "construction",
+    "establishments": 95,
+    "employment": 1199,
+    "payroll": 104494000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "236220"
+    ]
+  },
+  {
+    "geographyId": "washington-dc",
+    "fips": "11001",
+    "naics": "621111,622110",
+    "industryId": "healthcare",
+    "establishments": 332,
+    "employment": 30537,
+    "payroll": 2751084000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "621111",
+      "622110"
+    ]
+  },
+  {
+    "geographyId": "washington-dc",
+    "fips": "11001",
+    "naics": "445110,452311",
+    "industryId": "retail",
+    "establishments": 180,
+    "employment": 8168,
+    "payroll": 276679000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "445110",
+      "452311"
+    ]
+  },
+  {
+    "geographyId": "washington-dc",
+    "fips": "11001",
+    "naics": "721110",
+    "industryId": "hospitality",
+    "establishments": 120,
+    "employment": 11911,
+    "payroll": 863026000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "721110"
+    ]
+  },
+  {
+    "geographyId": "washington-dc",
+    "fips": "11001",
+    "naics": "493110,484110,481112",
+    "industryId": "logistics-warehousing",
+    "establishments": 19,
+    "employment": 147,
+    "payroll": 4201000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "484110",
+      "493110"
+    ]
+  },
+  {
+    "geographyId": "washington-dc",
+    "fips": "11001",
+    "naics": "611310",
+    "industryId": "higher-education",
+    "establishments": 47,
+    "employment": 37293,
+    "payroll": 2178431000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "611310"
+    ]
+  },
+  {
+    "geographyId": "washington-dc",
+    "fips": "11001",
+    "naics": "923130,922110",
+    "industryId": "public-administration",
+    "establishments": 0,
+    "employment": 0,
+    "payroll": 0,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": []
+  },
+  {
+    "geographyId": "washington-dc",
+    "fips": "11001",
+    "naics": "722511,722513",
+    "industryId": "food-services",
+    "establishments": 1825,
+    "employment": 42617,
+    "payroll": 1497503000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "722511",
+      "722513"
+    ]
+  },
+  {
+    "geographyId": "washington-dc",
+    "fips": "11001",
+    "naics": "531120",
+    "industryId": "real-estate",
+    "establishments": 137,
+    "employment": 724,
+    "payroll": 76825000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "531120"
+    ]
+  },
+  {
+    "geographyId": "washington-dc",
+    "fips": "11001",
+    "naics": "522110,524210",
+    "industryId": "finance-insurance",
+    "establishments": 344,
+    "employment": 4958,
+    "payroll": 811149000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "522110",
+      "524210"
+    ]
+  },
+  {
+    "geographyId": "washington-dc",
+    "fips": "11001",
+    "naics": "221114,237130,334413,335999",
+    "industryId": "clean-energy",
+    "establishments": 11,
+    "employment": 351,
+    "payroll": 21002000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "221114",
+      "237130"
+    ]
+  },
+  {
+    "geographyId": "fairfax-county-va",
+    "fips": "51059",
+    "naics": "541714,541713",
+    "industryId": "life-sciences-rd",
+    "establishments": 31,
+    "employment": 1329,
+    "payroll": 149595000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541713",
+      "541714"
+    ]
+  },
+  {
+    "geographyId": "fairfax-county-va",
+    "fips": "51059",
+    "naics": "511210,518210,541511",
+    "industryId": "software-it",
+    "establishments": 2028,
+    "employment": 77360,
+    "payroll": 11619633000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "511210",
+      "518210",
+      "541511"
+    ]
+  },
+  {
+    "geographyId": "fairfax-county-va",
+    "fips": "51059",
+    "naics": "541611,541330",
+    "industryId": "professional-services",
+    "establishments": 1729,
+    "employment": 60919,
+    "payroll": 7470924000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541330",
+      "541611"
+    ]
+  },
+  {
+    "geographyId": "fairfax-county-va",
+    "fips": "51059",
+    "naics": "325412,334413,335999",
+    "industryId": "manufacturing",
+    "establishments": 3,
+    "employment": 165,
+    "payroll": 17775000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "325412"
+    ]
+  },
+  {
+    "geographyId": "fairfax-county-va",
+    "fips": "51059",
+    "naics": "236220",
+    "industryId": "construction",
+    "establishments": 179,
+    "employment": 4848,
+    "payroll": 586555000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "236220"
+    ]
+  },
+  {
+    "geographyId": "fairfax-county-va",
+    "fips": "51059",
+    "naics": "621111,622110",
+    "industryId": "healthcare",
+    "establishments": 842,
+    "employment": 24063,
+    "payroll": 2316941000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "621111",
+      "622110"
+    ]
+  },
+  {
+    "geographyId": "fairfax-county-va",
+    "fips": "51059",
+    "naics": "445110,452311",
+    "industryId": "retail",
+    "establishments": 219,
+    "employment": 16655,
+    "payroll": 589785000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "445110",
+      "452311"
+    ]
+  },
+  {
+    "geographyId": "fairfax-county-va",
+    "fips": "51059",
+    "naics": "721110",
+    "industryId": "hospitality",
+    "establishments": 106,
+    "employment": 3791,
+    "payroll": 173497000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "721110"
+    ]
+  },
+  {
+    "geographyId": "fairfax-county-va",
+    "fips": "51059",
+    "naics": "493110,484110,481112",
+    "industryId": "logistics-warehousing",
+    "establishments": 63,
+    "employment": 1255,
+    "payroll": 48060000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "484110",
+      "493110"
+    ]
+  },
+  {
+    "geographyId": "fairfax-county-va",
+    "fips": "51059",
+    "naics": "611310",
+    "industryId": "higher-education",
+    "establishments": 27,
+    "employment": 1663,
+    "payroll": 93513000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "611310"
+    ]
+  },
+  {
+    "geographyId": "fairfax-county-va",
+    "fips": "51059",
+    "naics": "923130,922110",
+    "industryId": "public-administration",
+    "establishments": 0,
+    "employment": 0,
+    "payroll": 0,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": []
+  },
+  {
+    "geographyId": "fairfax-county-va",
+    "fips": "51059",
+    "naics": "722511,722513",
+    "industryId": "food-services",
+    "establishments": 1934,
+    "employment": 34937,
+    "payroll": 958978000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "722511",
+      "722513"
+    ]
+  },
+  {
+    "geographyId": "fairfax-county-va",
+    "fips": "51059",
+    "naics": "531120",
+    "industryId": "real-estate",
+    "establishments": 139,
+    "employment": 892,
+    "payroll": 81928000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "531120"
+    ]
+  },
+  {
+    "geographyId": "fairfax-county-va",
+    "fips": "51059",
+    "naics": "522110,524210",
+    "industryId": "finance-insurance",
+    "establishments": 640,
+    "employment": 6049,
+    "payroll": 664691000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "522110",
+      "524210"
+    ]
+  },
+  {
+    "geographyId": "fairfax-county-va",
+    "fips": "51059",
+    "naics": "221114,237130,334413,335999",
+    "industryId": "clean-energy",
+    "establishments": 25,
+    "employment": 490,
+    "payroll": 66489000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "221114",
+      "237130"
+    ]
+  },
+  {
+    "geographyId": "prince-georges-county-md",
+    "fips": "24033",
+    "naics": "541714,541713",
+    "industryId": "life-sciences-rd",
+    "establishments": 15,
+    "employment": 234,
+    "payroll": 31750000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541713",
+      "541714"
+    ]
+  },
+  {
+    "geographyId": "prince-georges-county-md",
+    "fips": "24033",
+    "naics": "511210,518210,541511",
+    "industryId": "software-it",
+    "establishments": 228,
+    "employment": 6703,
+    "payroll": 810124000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "511210",
+      "518210",
+      "541511"
+    ]
+  },
+  {
+    "geographyId": "prince-georges-county-md",
+    "fips": "24033",
+    "naics": "541611,541330",
+    "industryId": "professional-services",
+    "establishments": 431,
+    "employment": 11314,
+    "payroll": 1079649000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541330",
+      "541611"
+    ]
+  },
+  {
+    "geographyId": "prince-georges-county-md",
+    "fips": "24033",
+    "naics": "325412,334413,335999",
+    "industryId": "manufacturing",
+    "establishments": 0,
+    "employment": 0,
+    "payroll": 0,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": []
+  },
+  {
+    "geographyId": "prince-georges-county-md",
+    "fips": "24033",
+    "naics": "236220",
+    "industryId": "construction",
+    "establishments": 166,
+    "employment": 2408,
+    "payroll": 191597000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "236220"
+    ]
+  },
+  {
+    "geographyId": "prince-georges-county-md",
+    "fips": "24033",
+    "naics": "621111,622110",
+    "industryId": "healthcare",
+    "establishments": 437,
+    "employment": 8714,
+    "payroll": 714169000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "621111",
+      "622110"
+    ]
+  },
+  {
+    "geographyId": "prince-georges-county-md",
+    "fips": "24033",
+    "naics": "445110,452311",
+    "industryId": "retail",
+    "establishments": 210,
+    "employment": 10889,
+    "payroll": 361271000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "445110",
+      "452311"
+    ]
+  },
+  {
+    "geographyId": "prince-georges-county-md",
+    "fips": "24033",
+    "naics": "721110",
+    "industryId": "hospitality",
+    "establishments": 78,
+    "employment": 3694,
+    "payroll": 211886000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "721110"
+    ]
+  },
+  {
+    "geographyId": "prince-georges-county-md",
+    "fips": "24033",
+    "naics": "493110,484110,481112",
+    "industryId": "logistics-warehousing",
+    "establishments": 181,
+    "employment": 3055,
+    "payroll": 145470000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "484110",
+      "493110"
+    ]
+  },
+  {
+    "geographyId": "prince-georges-county-md",
+    "fips": "24033",
+    "naics": "611310",
+    "industryId": "higher-education",
+    "establishments": 6,
+    "employment": 258,
+    "payroll": 8064000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "611310"
+    ]
+  },
+  {
+    "geographyId": "prince-georges-county-md",
+    "fips": "24033",
+    "naics": "923130,922110",
+    "industryId": "public-administration",
+    "establishments": 0,
+    "employment": 0,
+    "payroll": 0,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": []
+  },
+  {
+    "geographyId": "prince-georges-county-md",
+    "fips": "24033",
+    "naics": "722511,722513",
+    "industryId": "food-services",
+    "establishments": 1230,
+    "employment": 24117,
+    "payroll": 570846000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "722511",
+      "722513"
+    ]
+  },
+  {
+    "geographyId": "prince-georges-county-md",
+    "fips": "24033",
+    "naics": "531120",
+    "industryId": "real-estate",
+    "establishments": 46,
+    "employment": 189,
+    "payroll": 10745000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "531120"
+    ]
+  },
+  {
+    "geographyId": "prince-georges-county-md",
+    "fips": "24033",
+    "naics": "522110,524210",
+    "industryId": "finance-insurance",
+    "establishments": 308,
+    "employment": 2300,
+    "payroll": 159035000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "522110",
+      "524210"
+    ]
+  },
+  {
+    "geographyId": "prince-georges-county-md",
+    "fips": "24033",
+    "naics": "221114,237130,334413,335999",
+    "industryId": "clean-energy",
+    "establishments": 14,
+    "employment": 957,
+    "payroll": 87721000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "237130"
+    ]
+  },
+  {
+    "geographyId": "baltimore-city-md",
+    "fips": "24510",
+    "naics": "541714,541713",
+    "industryId": "life-sciences-rd",
+    "establishments": 40,
+    "employment": 610,
+    "payroll": 67681000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541713",
+      "541714"
+    ]
+  },
+  {
+    "geographyId": "baltimore-city-md",
+    "fips": "24510",
+    "naics": "511210,518210,541511",
+    "industryId": "software-it",
+    "establishments": 170,
+    "employment": 3426,
+    "payroll": 440220000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "511210",
+      "518210",
+      "541511"
+    ]
+  },
+  {
+    "geographyId": "baltimore-city-md",
+    "fips": "24510",
+    "naics": "541611,541330",
+    "industryId": "professional-services",
+    "establishments": 253,
+    "employment": 4779,
+    "payroll": 532204000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541330",
+      "541611"
+    ]
+  },
+  {
+    "geographyId": "baltimore-city-md",
+    "fips": "24510",
+    "naics": "325412,334413,335999",
+    "industryId": "manufacturing",
+    "establishments": 0,
+    "employment": 0,
+    "payroll": 0,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": []
+  },
+  {
+    "geographyId": "baltimore-city-md",
+    "fips": "24510",
+    "naics": "236220",
+    "industryId": "construction",
+    "establishments": 46,
+    "employment": 573,
+    "payroll": 61481000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "236220"
+    ]
+  },
+  {
+    "geographyId": "baltimore-city-md",
+    "fips": "24510",
+    "naics": "621111,622110",
+    "industryId": "healthcare",
+    "establishments": 256,
+    "employment": 48058,
+    "payroll": 4506803000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "621111",
+      "622110"
+    ]
+  },
+  {
+    "geographyId": "baltimore-city-md",
+    "fips": "24510",
+    "naics": "445110,452311",
+    "industryId": "retail",
+    "establishments": 231,
+    "employment": 3897,
+    "payroll": 120346000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "445110"
+    ]
+  },
+  {
+    "geographyId": "baltimore-city-md",
+    "fips": "24510",
+    "naics": "721110",
+    "industryId": "hospitality",
+    "establishments": 53,
+    "employment": 2831,
+    "payroll": 127602000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "721110"
+    ]
+  },
+  {
+    "geographyId": "baltimore-city-md",
+    "fips": "24510",
+    "naics": "493110,484110,481112",
+    "industryId": "logistics-warehousing",
+    "establishments": 86,
+    "employment": 971,
+    "payroll": 77377000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "484110",
+      "493110"
+    ]
+  },
+  {
+    "geographyId": "baltimore-city-md",
+    "fips": "24510",
+    "naics": "611310",
+    "industryId": "higher-education",
+    "establishments": 14,
+    "employment": 35301,
+    "payroll": 2899579000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "611310"
+    ]
+  },
+  {
+    "geographyId": "baltimore-city-md",
+    "fips": "24510",
+    "naics": "923130,922110",
+    "industryId": "public-administration",
+    "establishments": 0,
+    "employment": 0,
+    "payroll": 0,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": []
+  },
+  {
+    "geographyId": "baltimore-city-md",
+    "fips": "24510",
+    "naics": "722511,722513",
+    "industryId": "food-services",
+    "establishments": 1056,
+    "employment": 15104,
+    "payroll": 420893000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "722511",
+      "722513"
+    ]
+  },
+  {
+    "geographyId": "baltimore-city-md",
+    "fips": "24510",
+    "naics": "531120",
+    "industryId": "real-estate",
+    "establishments": 52,
+    "employment": 234,
+    "payroll": 22528000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "531120"
+    ]
+  },
+  {
+    "geographyId": "baltimore-city-md",
+    "fips": "24510",
+    "naics": "522110,524210",
+    "industryId": "finance-insurance",
+    "establishments": 190,
+    "employment": 2490,
+    "payroll": 297917000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "522110",
+      "524210"
+    ]
+  },
+  {
+    "geographyId": "baltimore-city-md",
+    "fips": "24510",
+    "naics": "221114,237130,334413,335999",
+    "industryId": "clean-energy",
+    "establishments": 3,
+    "employment": 58,
+    "payroll": 5119000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "237130"
+    ]
+  },
+  {
+    "geographyId": "new-york-county-ny",
+    "fips": "36061",
+    "naics": "541714,541713",
+    "industryId": "life-sciences-rd",
+    "establishments": 129,
+    "employment": 3884,
+    "payroll": 841338000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541713",
+      "541714"
+    ]
+  },
+  {
+    "geographyId": "new-york-county-ny",
+    "fips": "36061",
+    "naics": "511210,518210,541511",
+    "industryId": "software-it",
+    "establishments": 2171,
+    "employment": 95527,
+    "payroll": 22065166000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "511210",
+      "518210",
+      "541511"
+    ]
+  },
+  {
+    "geographyId": "new-york-county-ny",
+    "fips": "36061",
+    "naics": "541611,541330",
+    "industryId": "professional-services",
+    "establishments": 2019,
+    "employment": 55707,
+    "payroll": 9884865000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541330",
+      "541611"
+    ]
+  },
+  {
+    "geographyId": "new-york-county-ny",
+    "fips": "36061",
+    "naics": "325412,334413,335999",
+    "industryId": "manufacturing",
+    "establishments": 16,
+    "employment": 169,
+    "payroll": 81463000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "325412",
+      "334413",
+      "335999"
+    ]
+  },
+  {
+    "geographyId": "new-york-county-ny",
+    "fips": "36061",
+    "naics": "236220",
+    "industryId": "construction",
+    "establishments": 271,
+    "employment": 10304,
+    "payroll": 1561233000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "236220"
+    ]
+  },
+  {
+    "geographyId": "new-york-county-ny",
+    "fips": "36061",
+    "naics": "621111,622110",
+    "industryId": "healthcare",
+    "establishments": 2205,
+    "employment": 93612,
+    "payroll": 10088870000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "621111",
+      "622110"
+    ]
+  },
+  {
+    "geographyId": "new-york-county-ny",
+    "fips": "36061",
+    "naics": "445110,452311",
+    "industryId": "retail",
+    "establishments": 962,
+    "employment": 19973,
+    "payroll": 643567000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "445110",
+      "452311"
+    ]
+  },
+  {
+    "geographyId": "new-york-county-ny",
+    "fips": "36061",
+    "naics": "721110",
+    "industryId": "hospitality",
+    "establishments": 491,
+    "employment": 39369,
+    "payroll": 3090026000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "721110"
+    ]
+  },
+  {
+    "geographyId": "new-york-county-ny",
+    "fips": "36061",
+    "naics": "493110,484110,481112",
+    "industryId": "logistics-warehousing",
+    "establishments": 82,
+    "employment": 1078,
+    "payroll": 46127000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "484110",
+      "493110"
+    ]
+  },
+  {
+    "geographyId": "new-york-county-ny",
+    "fips": "36061",
+    "naics": "611310",
+    "industryId": "higher-education",
+    "establishments": 95,
+    "employment": 125691,
+    "payroll": 12646346000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "611310"
+    ]
+  },
+  {
+    "geographyId": "new-york-county-ny",
+    "fips": "36061",
+    "naics": "923130,922110",
+    "industryId": "public-administration",
+    "establishments": 0,
+    "employment": 0,
+    "payroll": 0,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": []
+  },
+  {
+    "geographyId": "new-york-county-ny",
+    "fips": "36061",
+    "naics": "722511,722513",
+    "industryId": "food-services",
+    "establishments": 6628,
+    "employment": 140040,
+    "payroll": 5862265000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "722511",
+      "722513"
+    ]
+  },
+  {
+    "geographyId": "new-york-county-ny",
+    "fips": "36061",
+    "naics": "531120",
+    "industryId": "real-estate",
+    "establishments": 1250,
+    "employment": 15791,
+    "payroll": 1652305000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "531120"
+    ]
+  },
+  {
+    "geographyId": "new-york-county-ny",
+    "fips": "36061",
+    "naics": "522110,524210",
+    "industryId": "finance-insurance",
+    "establishments": 1383,
+    "employment": 81022,
+    "payroll": 20660784000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "522110",
+      "524210"
+    ]
+  },
+  {
+    "geographyId": "new-york-county-ny",
+    "fips": "36061",
+    "naics": "221114,237130,334413,335999",
+    "industryId": "clean-energy",
+    "establishments": 37,
+    "employment": 828,
+    "payroll": 227869000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "221114",
+      "237130",
+      "334413",
+      "335999"
+    ]
+  },
+  {
+    "geographyId": "los-angeles-county-ca",
+    "fips": "06037",
+    "naics": "541714,541713",
+    "industryId": "life-sciences-rd",
+    "establishments": 214,
+    "employment": 13820,
+    "payroll": 2263663000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541713",
+      "541714"
+    ]
+  },
+  {
+    "geographyId": "los-angeles-county-ca",
+    "fips": "06037",
+    "naics": "511210,518210,541511",
+    "industryId": "software-it",
+    "establishments": 3606,
+    "employment": 58217,
+    "payroll": 9498942000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "511210",
+      "518210",
+      "541511"
+    ]
+  },
+  {
+    "geographyId": "los-angeles-county-ca",
+    "fips": "06037",
+    "naics": "541611,541330",
+    "industryId": "professional-services",
+    "establishments": 7439,
+    "employment": 46684,
+    "payroll": 5578669000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541330",
+      "541611"
+    ]
+  },
+  {
+    "geographyId": "los-angeles-county-ca",
+    "fips": "06037",
+    "naics": "325412,334413,335999",
+    "industryId": "manufacturing",
+    "establishments": 117,
+    "employment": 8503,
+    "payroll": 964261000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "325412",
+      "334413",
+      "335999"
+    ]
+  },
+  {
+    "geographyId": "los-angeles-county-ca",
+    "fips": "06037",
+    "naics": "236220",
+    "industryId": "construction",
+    "establishments": 956,
+    "employment": 13184,
+    "payroll": 1385586000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "236220"
+    ]
+  },
+  {
+    "geographyId": "los-angeles-county-ca",
+    "fips": "06037",
+    "naics": "621111,622110",
+    "industryId": "healthcare",
+    "establishments": 9936,
+    "employment": 215163,
+    "payroll": 22098548000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "621111",
+      "622110"
+    ]
+  },
+  {
+    "geographyId": "los-angeles-county-ca",
+    "fips": "06037",
+    "naics": "445110,452311",
+    "industryId": "retail",
+    "establishments": 2050,
+    "employment": 112963,
+    "payroll": 4256506000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "445110",
+      "452311"
+    ]
+  },
+  {
+    "geographyId": "los-angeles-county-ca",
+    "fips": "06037",
+    "naics": "721110",
+    "industryId": "hospitality",
+    "establishments": 1258,
+    "employment": 43237,
+    "payroll": 2287780000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "721110"
+    ]
+  },
+  {
+    "geographyId": "los-angeles-county-ca",
+    "fips": "06037",
+    "naics": "493110,484110,481112",
+    "industryId": "logistics-warehousing",
+    "establishments": 3924,
+    "employment": 39143,
+    "payroll": 2067666000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "481112",
+      "484110",
+      "493110"
+    ]
+  },
+  {
+    "geographyId": "los-angeles-county-ca",
+    "fips": "06037",
+    "naics": "611310",
+    "industryId": "higher-education",
+    "establishments": 165,
+    "employment": 77981,
+    "payroll": 4515240000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "611310"
+    ]
+  },
+  {
+    "geographyId": "los-angeles-county-ca",
+    "fips": "06037",
+    "naics": "923130,922110",
+    "industryId": "public-administration",
+    "establishments": 0,
+    "employment": 0,
+    "payroll": 0,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": []
+  },
+  {
+    "geographyId": "los-angeles-county-ca",
+    "fips": "06037",
+    "naics": "722511,722513",
+    "industryId": "food-services",
+    "establishments": 17616,
+    "employment": 328801,
+    "payroll": 10068556000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "722511",
+      "722513"
+    ]
+  },
+  {
+    "geographyId": "los-angeles-county-ca",
+    "fips": "06037",
+    "naics": "531120",
+    "industryId": "real-estate",
+    "establishments": 1629,
+    "employment": 8000,
+    "payroll": 850422000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "531120"
+    ]
+  },
+  {
+    "geographyId": "los-angeles-county-ca",
+    "fips": "06037",
+    "naics": "522110,524210",
+    "industryId": "finance-insurance",
+    "establishments": 5787,
+    "employment": 57728,
+    "payroll": 6984593000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "522110",
+      "524210"
+    ]
+  },
+  {
+    "geographyId": "los-angeles-county-ca",
+    "fips": "06037",
+    "naics": "221114,237130,334413,335999",
+    "industryId": "clean-energy",
+    "establishments": 164,
+    "employment": 4983,
+    "payroll": 513217000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "221114",
+      "237130",
+      "334413",
+      "335999"
+    ]
+  },
+  {
+    "geographyId": "cook-county-il",
+    "fips": "17031",
+    "naics": "541714,541713",
+    "industryId": "life-sciences-rd",
+    "establishments": 82,
+    "employment": 2320,
+    "payroll": 1025329000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541713",
+      "541714"
+    ]
+  },
+  {
+    "geographyId": "cook-county-il",
+    "fips": "17031",
+    "naics": "511210,518210,541511",
+    "industryId": "software-it",
+    "establishments": 2022,
+    "employment": 63211,
+    "payroll": 9362438000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "511210",
+      "518210",
+      "541511"
+    ]
+  },
+  {
+    "geographyId": "cook-county-il",
+    "fips": "17031",
+    "naics": "541611,541330",
+    "industryId": "professional-services",
+    "establishments": 2717,
+    "employment": 60333,
+    "payroll": 9964359000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541330",
+      "541611"
+    ]
+  },
+  {
+    "geographyId": "cook-county-il",
+    "fips": "17031",
+    "naics": "325412,334413,335999",
+    "industryId": "manufacturing",
+    "establishments": 38,
+    "employment": 2541,
+    "payroll": 279862000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "325412",
+      "334413",
+      "335999"
+    ]
+  },
+  {
+    "geographyId": "cook-county-il",
+    "fips": "17031",
+    "naics": "236220",
+    "industryId": "construction",
+    "establishments": 515,
+    "employment": 9972,
+    "payroll": 1238463000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "236220"
+    ]
+  },
+  {
+    "geographyId": "cook-county-il",
+    "fips": "17031",
+    "naics": "621111,622110",
+    "industryId": "healthcare",
+    "establishments": 3051,
+    "employment": 148704,
+    "payroll": 14235935000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "621111",
+      "622110"
+    ]
+  },
+  {
+    "geographyId": "cook-county-il",
+    "fips": "17031",
+    "naics": "445110,452311",
+    "industryId": "retail",
+    "establishments": 1445,
+    "employment": 67745,
+    "payroll": 2321878000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "445110",
+      "452311"
+    ]
+  },
+  {
+    "geographyId": "cook-county-il",
+    "fips": "17031",
+    "naics": "721110",
+    "industryId": "hospitality",
+    "establishments": 466,
+    "employment": 23904,
+    "payroll": 1362954000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "721110"
+    ]
+  },
+  {
+    "geographyId": "cook-county-il",
+    "fips": "17031",
+    "naics": "493110,484110,481112",
+    "industryId": "logistics-warehousing",
+    "establishments": 2499,
+    "employment": 26243,
+    "payroll": 1546928000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "481112",
+      "484110",
+      "493110"
+    ]
+  },
+  {
+    "geographyId": "cook-county-il",
+    "fips": "17031",
+    "naics": "611310",
+    "industryId": "higher-education",
+    "establishments": 79,
+    "employment": 66035,
+    "payroll": 4205135000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "611310"
+    ]
+  },
+  {
+    "geographyId": "cook-county-il",
+    "fips": "17031",
+    "naics": "923130,922110",
+    "industryId": "public-administration",
+    "establishments": 0,
+    "employment": 0,
+    "payroll": 0,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": []
+  },
+  {
+    "geographyId": "cook-county-il",
+    "fips": "17031",
+    "naics": "722511,722513",
+    "industryId": "food-services",
+    "establishments": 8986,
+    "employment": 159445,
+    "payroll": 4769483000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "722511",
+      "722513"
+    ]
+  },
+  {
+    "geographyId": "cook-county-il",
+    "fips": "17031",
+    "naics": "531120",
+    "industryId": "real-estate",
+    "establishments": 494,
+    "employment": 3872,
+    "payroll": 446176000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "531120"
+    ]
+  },
+  {
+    "geographyId": "cook-county-il",
+    "fips": "17031",
+    "naics": "522110,524210",
+    "industryId": "finance-insurance",
+    "establishments": 3344,
+    "employment": 62659,
+    "payroll": 8902580000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "522110",
+      "524210"
+    ]
+  },
+  {
+    "geographyId": "cook-county-il",
+    "fips": "17031",
+    "naics": "221114,237130,334413,335999",
+    "industryId": "clean-energy",
+    "establishments": 71,
+    "employment": 1697,
+    "payroll": 170502000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "221114",
+      "237130",
+      "334413",
+      "335999"
+    ]
+  },
+  {
+    "geographyId": "harris-county-tx",
+    "fips": "48201",
+    "naics": "541714,541713",
+    "industryId": "life-sciences-rd",
+    "establishments": 86,
+    "employment": 1474,
+    "payroll": 180019000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541713",
+      "541714"
+    ]
+  },
+  {
+    "geographyId": "harris-county-tx",
+    "fips": "48201",
+    "naics": "511210,518210,541511",
+    "industryId": "software-it",
+    "establishments": 1343,
+    "employment": 26378,
+    "payroll": 3686719000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "511210",
+      "518210",
+      "541511"
+    ]
+  },
+  {
+    "geographyId": "harris-county-tx",
+    "fips": "48201",
+    "naics": "541611,541330",
+    "industryId": "professional-services",
+    "establishments": 3260,
+    "employment": 65495,
+    "payroll": 9084540000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541330",
+      "541611"
+    ]
+  },
+  {
+    "geographyId": "harris-county-tx",
+    "fips": "48201",
+    "naics": "325412,334413,335999",
+    "industryId": "manufacturing",
+    "establishments": 25,
+    "employment": 1436,
+    "payroll": 117781000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "325412",
+      "334413",
+      "335999"
+    ]
+  },
+  {
+    "geographyId": "harris-county-tx",
+    "fips": "48201",
+    "naics": "236220",
+    "industryId": "construction",
+    "establishments": 649,
+    "employment": 11793,
+    "payroll": 1086277000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "236220"
+    ]
+  },
+  {
+    "geographyId": "harris-county-tx",
+    "fips": "48201",
+    "naics": "621111,622110",
+    "industryId": "healthcare",
+    "establishments": 3937,
+    "employment": 118666,
+    "payroll": 11290671000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "621111",
+      "622110"
+    ]
+  },
+  {
+    "geographyId": "harris-county-tx",
+    "fips": "48201",
+    "naics": "445110,452311",
+    "industryId": "retail",
+    "establishments": 887,
+    "employment": 63956,
+    "payroll": 1997631000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "445110",
+      "452311"
+    ]
+  },
+  {
+    "geographyId": "harris-county-tx",
+    "fips": "48201",
+    "naics": "721110",
+    "industryId": "hospitality",
+    "establishments": 877,
+    "employment": 16844,
+    "payroll": 626770000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "721110"
+    ]
+  },
+  {
+    "geographyId": "harris-county-tx",
+    "fips": "48201",
+    "naics": "493110,484110,481112",
+    "industryId": "logistics-warehousing",
+    "establishments": 765,
+    "employment": 21594,
+    "payroll": 1015499000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "481112",
+      "484110",
+      "493110"
+    ]
+  },
+  {
+    "geographyId": "harris-county-tx",
+    "fips": "48201",
+    "naics": "611310",
+    "industryId": "higher-education",
+    "establishments": 42,
+    "employment": 22145,
+    "payroll": 2129595000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "611310"
+    ]
+  },
+  {
+    "geographyId": "harris-county-tx",
+    "fips": "48201",
+    "naics": "923130,922110",
+    "industryId": "public-administration",
+    "establishments": 0,
+    "employment": 0,
+    "payroll": 0,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": []
+  },
+  {
+    "geographyId": "harris-county-tx",
+    "fips": "48201",
+    "naics": "722511,722513",
+    "industryId": "food-services",
+    "establishments": 7532,
+    "employment": 180376,
+    "payroll": 4217079000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "722511",
+      "722513"
+    ]
+  },
+  {
+    "geographyId": "harris-county-tx",
+    "fips": "48201",
+    "naics": "531120",
+    "industryId": "real-estate",
+    "establishments": 651,
+    "employment": 3316,
+    "payroll": 263315000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "531120"
+    ]
+  },
+  {
+    "geographyId": "harris-county-tx",
+    "fips": "48201",
+    "naics": "522110,524210",
+    "industryId": "finance-insurance",
+    "establishments": 2889,
+    "employment": 32173,
+    "payroll": 3650843000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "522110",
+      "524210"
+    ]
+  },
+  {
+    "geographyId": "harris-county-tx",
+    "fips": "48201",
+    "naics": "221114,237130,334413,335999",
+    "industryId": "clean-energy",
+    "establishments": 137,
+    "employment": 13237,
+    "payroll": 1267299000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "221114",
+      "237130",
+      "334413",
+      "335999"
+    ]
+  },
+  {
+    "geographyId": "miami-dade-county-fl",
+    "fips": "12086",
+    "naics": "541714,541713",
+    "industryId": "life-sciences-rd",
+    "establishments": 70,
+    "employment": 1097,
+    "payroll": 134019000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541713",
+      "541714"
+    ]
+  },
+  {
+    "geographyId": "miami-dade-county-fl",
+    "fips": "12086",
+    "naics": "511210,518210,541511",
+    "industryId": "software-it",
+    "establishments": 1128,
+    "employment": 12471,
+    "payroll": 1667627000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "511210",
+      "518210",
+      "541511"
+    ]
+  },
+  {
+    "geographyId": "miami-dade-county-fl",
+    "fips": "12086",
+    "naics": "541611,541330",
+    "industryId": "professional-services",
+    "establishments": 2932,
+    "employment": 18436,
+    "payroll": 1970300000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "541330",
+      "541611"
+    ]
+  },
+  {
+    "geographyId": "miami-dade-county-fl",
+    "fips": "12086",
+    "naics": "325412,334413,335999",
+    "industryId": "manufacturing",
+    "establishments": 30,
+    "employment": 923,
+    "payroll": 66878000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "325412",
+      "334413",
+      "335999"
+    ]
+  },
+  {
+    "geographyId": "miami-dade-county-fl",
+    "fips": "12086",
+    "naics": "236220",
+    "industryId": "construction",
+    "establishments": 356,
+    "employment": 4214,
+    "payroll": 352609000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "236220"
+    ]
+  },
+  {
+    "geographyId": "miami-dade-county-fl",
+    "fips": "12086",
+    "naics": "621111,622110",
+    "industryId": "healthcare",
+    "establishments": 2970,
+    "employment": 75210,
+    "payroll": 6677535000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "621111",
+      "622110"
+    ]
+  },
+  {
+    "geographyId": "miami-dade-county-fl",
+    "fips": "12086",
+    "naics": "445110,452311",
+    "industryId": "retail",
+    "establishments": 658,
+    "employment": 38613,
+    "payroll": 1213893000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "445110",
+      "452311"
+    ]
+  },
+  {
+    "geographyId": "miami-dade-county-fl",
+    "fips": "12086",
+    "naics": "721110",
+    "industryId": "hospitality",
+    "establishments": 480,
+    "employment": 25860,
+    "payroll": 1310388000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "721110"
+    ]
+  },
+  {
+    "geographyId": "miami-dade-county-fl",
+    "fips": "12086",
+    "naics": "493110,484110,481112",
+    "industryId": "logistics-warehousing",
+    "establishments": 850,
+    "employment": 8742,
+    "payroll": 460222000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "481112",
+      "484110",
+      "493110"
+    ]
+  },
+  {
+    "geographyId": "miami-dade-county-fl",
+    "fips": "12086",
+    "naics": "611310",
+    "industryId": "higher-education",
+    "establishments": 48,
+    "employment": 23039,
+    "payroll": 1721270000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "611310"
+    ]
+  },
+  {
+    "geographyId": "miami-dade-county-fl",
+    "fips": "12086",
+    "naics": "923130,922110",
+    "industryId": "public-administration",
+    "establishments": 0,
+    "employment": 0,
+    "payroll": 0,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": []
+  },
+  {
+    "geographyId": "miami-dade-county-fl",
+    "fips": "12086",
+    "naics": "722511,722513",
+    "industryId": "food-services",
+    "establishments": 4448,
+    "employment": 88315,
+    "payroll": 2752536000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "722511",
+      "722513"
+    ]
+  },
+  {
+    "geographyId": "miami-dade-county-fl",
+    "fips": "12086",
+    "naics": "531120",
+    "industryId": "real-estate",
+    "establishments": 775,
+    "employment": 2662,
+    "payroll": 182699000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "531120"
+    ]
+  },
+  {
+    "geographyId": "miami-dade-county-fl",
+    "fips": "12086",
+    "naics": "522110,524210",
+    "industryId": "finance-insurance",
+    "establishments": 2286,
+    "employment": 22454,
+    "payroll": 2636378000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "522110",
+      "524210"
+    ]
+  },
+  {
+    "geographyId": "miami-dade-county-fl",
+    "fips": "12086",
+    "naics": "221114,237130,334413,335999",
+    "industryId": "clean-energy",
+    "establishments": 57,
+    "employment": 1024,
+    "payroll": 75641000,
+    "year": 2023,
+    "source": "Census County Business Patterns downloadable county file",
+    "dataQuality": "connected",
+    "sourceLabels": [
+      "221114",
+      "237130",
+      "334413",
+      "335999"
+    ]
+  }
+]
