@@ -1,9 +1,19 @@
 import type { Metadata } from "next";
 import DataSourceStatus from "@/components/DataSourceStatus";
+import { absoluteUrl, OG_IMAGE_PATH, SITE_NAME } from "@/lib/constants/site";
 
 export const metadata: Metadata = {
   title: "Data Sources | EconomicImpactCalculator",
-  description: "Official public data sources used by EconomicImpactCalculator, including BEA, BLS QCEW, Census CBP, ACS, and CPI data."
+  description: "Official public data sources used by EconomicImpactCalculator, including BEA, BLS QCEW, Census CBP, ACS, and CPI data.",
+  alternates: { canonical: absoluteUrl("/data-sources") },
+  openGraph: {
+    title: "Economic Impact Calculator Data Sources",
+    description: "Official public data sources used by the economic impact calculator, including BEA, BLS QCEW, Census CBP, ACS, and CPI data.",
+    type: "website",
+    url: absoluteUrl("/data-sources"),
+    siteName: SITE_NAME,
+    images: [{ url: absoluteUrl(OG_IMAGE_PATH), width: 1200, height: 1200, alt: "Economic Impact Calculator logo" }]
+  }
 };
 
 export default function DataSourcesPage() {

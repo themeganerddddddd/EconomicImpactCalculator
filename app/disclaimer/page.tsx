@@ -1,8 +1,18 @@
 import type { Metadata } from "next";
+import { absoluteUrl, OG_IMAGE_PATH, SITE_NAME } from "@/lib/constants/site";
 
 export const metadata: Metadata = {
   title: "Disclaimer | EconomicImpactCalculator",
-  description: "Planning estimate disclaimer for EconomicImpactCalculator."
+  description: "Planning estimate disclaimer for EconomicImpactCalculator.",
+  alternates: { canonical: absoluteUrl("/disclaimer") },
+  openGraph: {
+    title: "Economic Impact Calculator Disclaimer",
+    description: "Planning estimate disclaimer for EconomicImpactCalculator.",
+    type: "website",
+    url: absoluteUrl("/disclaimer"),
+    siteName: SITE_NAME,
+    images: [{ url: absoluteUrl(OG_IMAGE_PATH), width: 1200, height: 1200, alt: "Economic Impact Calculator logo" }]
+  }
 };
 
 export default function DisclaimerPage() {

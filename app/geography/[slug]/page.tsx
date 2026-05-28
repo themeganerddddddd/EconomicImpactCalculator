@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { GEOGRAPHIES, getGeography } from "@/lib/constants/geographies";
 import SEOCountyIndustryBlock from "@/components/SEOCountyIndustryBlock";
+import { absoluteUrl, OG_IMAGE_PATH, SITE_NAME } from "@/lib/constants/site";
 
 export function generateStaticParams() {
   return GEOGRAPHIES.filter((g) => ["montgomery-county-md", "washington-dc", "fairfax-county-va", "baltimore-city-md", "cook-county-il"].includes(g.slug)).map((g) => ({ slug: g.slug }));
@@ -13,7 +14,16 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   if (!geography) return {};
   return {
     title: `${geography.name} Economic Impact Calculator | EconomicImpactCalculator`,
-    description: `Estimate jobs, wages, GDP, output, fiscal impact, and leakage for projects in ${geography.name}.`
+    description: `Estimate jobs, wages, GDP, output, fiscal impact, and leakage for projects in ${geography.name}.`,
+    alternates: { canonical: absoluteUrl(`/geography/${geography.slug}`) },
+    openGraph: {
+      title: `${geography.name} Economic Impact Calculator`,
+      description: `Estimate jobs, wages, GDP, output, fiscal impact, and leakage for projects in ${geography.name}.`,
+      type: "website",
+      url: absoluteUrl(`/geography/${geography.slug}`),
+      siteName: SITE_NAME,
+      images: [{ url: absoluteUrl(OG_IMAGE_PATH), width: 1200, height: 1200, alt: "Economic Impact Calculator logo" }]
+    }
   };
 }
 
